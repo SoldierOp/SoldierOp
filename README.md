@@ -73,7 +73,7 @@
 
 ### 🧩 LeetCode Progress
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SoldierOp?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/MayankO7?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
