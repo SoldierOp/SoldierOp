@@ -72,7 +72,7 @@ Git · Docker · Linux
 ## 🧩 Problem Solving (Auto-Updated)
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/AlsoMayankO7?theme=dark&font=Karma&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MayankO7?theme=dark&font=Karma&ext=activity)
 
 - LeetCode **Knight**
 - 700+ problems solved across core DSA topics
