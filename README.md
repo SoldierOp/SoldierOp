@@ -1,91 +1,109 @@
-<!-- ========================== HEADER ========================== -->
-<h1 align="center">Hey there, I'm <span style="color:#00E676;">Mayank Chauhan</span> 👋</h1>
-<h3 align="center">Back-End & AI Developer | CSE (AI & Robotics) @ VIT Chennai | GSSoC’25 Contributor | LeetCode Knight</h3>
+# Hi, I’m Mayank 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E676&size=22&center=true&vCenter=true&width=700&lines=AI+%26+Robotics+Engineer;Full-Stack+%26+Open-Source+Developer;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+React;Always+Building+Something+Smart+%26+Scalable" />
-</p>
+I’m a Computer Science undergraduate who enjoys building real software systems
+end-to-end — from designing APIs and data pipelines to debugging, testing, and
+shipping reliable features.
 
----
-
-### 💫 About Me
-- 🎓 **B.Tech (CSE – AI & Robotics)** | Vellore Institute of Technology – Chennai (2023 – 2027) | GPA 8.08/10  
-- 🧠 Aspiring **Back-End Software Engineer** with 3 years of programming experience  
-- ⚙️ Passionate about **AI Applications, System Design & Cloud Integration**  
-- 🏅 **Knight on LeetCode** | Active Open-Source Contributor (**GSSoC’25**)  
-- 🤖 Focused on developing high-performance AI systems and data-driven solutions  
-- 💡 Motto: *“Discipline, Logic and Curiosity drive everything I build.”*
+I’m strongest in backend and full-stack development, and I like owning problems
+from design to deployment while learning new tools as needed.
 
 ---
 
-### 🧰 Tech Stack
-#### 💻 Languages  
-`Python` `C++` `C#` `JavaScript` `HTML`
+## 🧠 What I Work On
 
-#### ⚙️ Frameworks & Libraries  
-`React.js` `Node.js` `FastAPI` `PyTorch` `TensorFlow` `Pandas` `NumPy` `OpenCV`
-
-#### 🗄️ Databases  
-`MongoDB` `MySQL` `SQLite` `NoSQL`
-
-#### ☁️ APIs & Tools  
-`RESTful API` `Docker` `Git/GitHub` `Excel` `PowerPoint`
-
-#### 🧠 AI & Machine Learning  
-`GenAI` `Large Language Models` `Deep Learning` `Computer Vision`
+- Backend services & REST APIs  
+- Data processing pipelines  
+- Full-stack feature development (API + UI integration)  
+- Writing clean, testable, maintainable code  
+- Iterating quickly based on feedback  
 
 ---
 
-### 🚀 Highlighted Projects
+## 🚀 Selected Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [**AI Powered PDF Intelligence Suite**](https://github.com/SoldierOp/Adobe-India-Hacathon-Connecting-the-dots-2025-Round-1A) | NLP-based pipeline converting PDFs into structured summaries using embeddings & offline automation. | `Python` `NLP` `Docker` |
-| [**Aura – Autonomous Treasury Analyst**](https://github.com/SoldierOp/Aura-The-Autonomus-Treasury-Analyst) | AI-powered financial analytics platform using Gemini AI + FastAPI + React for predictive insights and risk detection. | `FastAPI` `React.js` `Pandas` `OpenPyXL` |
-| [**FloatChat – Ocean Data Intelligence**](https://github.com/SoldierOp/argo-float) | Natural-language interface for ocean analytics with real-time data visualization & anomaly detection. | `Python` `LangChain` `Streamlit` |
-| [**MedVision AI**](https://github.com/SoldierOp/MedVision-AI) | CNN/U-Net system detecting organs & anomalies from CT/ultrasound images in real time. | `PyTorch` `MONAI` `OpenCV` |
-| [**Learning Management System**](https://github.com/SoldierOp/Learning-Management-System) | Platform for student–professor collaboration and research projects. | `Python` `SQLite` |
-| [**Blind Stick for Visually Impaired**](https://github.com/SoldierOp/Blind-Stick) | Sensor-based IoT navigation aid with audio feedback. | `C++` `Arduino` |
-| [**Internet Speed Test Website**](https://github.com/SoldierOp/Internet-speed-test) | Real-time upload/download speed monitor web app. | `HTML` `JS` `Flask` |
+### 🔹 AI Powered PDF Intelligence Suite
+**Tech:** Python, FastAPI, Docker  
+- Built a backend service to parse, index, and query large PDF documents (500+ pages)
+- Designed APIs with clear contracts for downstream feature development
+- Implemented validation, error handling, and unit/integration tests
+- Optimized memory usage and container size (~40% reduction)
 
----
-
-### 🏆 Achievements & Leadership
-- 🎖️ **GSSoC’25 Contributor** – Active open-source development & collaboration  
-- ⚔️ **Knight Level** on LeetCode (500 + problems solved)  
-- 🧩 **Adobe India Hackathon 2025** – AI Powered PDF Intelligence Suite  
-- 🧠 **Chairperson**, *Haryana Hood* – Led cultural initiatives & student community events at VIT  
-- 🥇 Recognized for **leadership, innovation & AI project development**
+👉 Repo pinned
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoldierOp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoldierOp&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+### 🔹 Aura — Autonomous Treasury Analyst
+**Tech:** Python, FastAPI, Pandas  
+- Processed and validated structured financial datasets (50k+ rows)
+- Built REST APIs powering user-facing reporting features
+- Focused on correctness, clarity, and usability
+- Iterated based on peer and user feedback
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoldierOp&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🧩 LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/MayankO7?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
-</p>
+👉 Repo pinned
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-chauhan-1a1651262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SoldierOp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:mayankchahes@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.mayankchauhan.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
+### 🔹 Medical Image Segmentation Pipeline
+**Tech:** Python, PyTorch, OpenCV  
+- Built a reproducible image-processing pipeline
+- Clean separation of preprocessing, inference, and evaluation
 
 ---
 
-<p align="center">⚡ “Building tomorrow’s intelligence through code today.” ⚡</p>
+## 🛠 Tech Stack
+
+**Languages**  
+Python · JavaScript · Java · C++ · SQL  
+
+**Backend**  
+REST APIs · Data Validation · Background Processing · API Testing  
+
+**Frontend**  
+React (basic) · REST API integration  
+
+**Databases**  
+MySQL · MongoDB  
+
+**Tools**  
+Git · Docker · Linux  
+
+---
+
+## 🧩 Problem Solving (Auto-Updated)
+
+### LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlsoMayankO7?theme=dark&font=Karma&ext=activity)
+
+- LeetCode **Knight**
+- 700+ problems solved across core DSA topics
+
+---
+
+### Codeforces
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MayankO7&theme=dark)
+
+- Rating: ~1300+
+- Regular contest participation
+
+> These cards update automatically as I participate in contests.
+
+---
+
+## 👥 Leadership
+
+**Chairperson — Haryana Hood, VIT Chennai**  
+- Led a 150+ member student organization  
+- Coordinated cross-team planning and execution  
+- Worked with diverse stakeholders and incorporated feedback  
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/SoldierOp  
+- **LinkedIn:** https://www.linkedin.com/in/mayank-chauhan-1a1651262/  
+- **Email:** mayankchahes@gmail.com  
+
+---
+
+⭐ If something here interests you, feel free to explore the repositories or reach out.
